@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="610px" font-size="15px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+.muted {fill: #57606a;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="610px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="34" fill="#24292f" font-size="10.5px" class="ascii">
+<tspan x="15" y="34.0"/>
+<tspan x="15" y="46.6">                   %@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="59.2">                 @@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="71.8">                @@@@@@@@@@@@@@@@@@@@@@@@@%</tspan>
+<tspan x="15" y="84.4">               @@%@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="97.0">             @@@@@@@%%%%@%%@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="109.6">            @@%@%+:........:+++++::::+%@@@%@@</tspan>
+<tspan x="15" y="122.2">            @@@@.::::::::::::...:::::.:+.%@@@</tspan>
+<tspan x="15" y="134.8">            @@@@::::::::::::::::::::::::.:@@@</tspan>
+<tspan x="15" y="147.4">           %@@@@:.......:::::::::........%@%@</tspan>
+<tspan x="15" y="160.0">            @%@+.%@@@%%++::::::::+%%@@@@::@@@</tspan>
+<tspan x="15" y="172.6">            @@@:@@%%@@@@@@+.::.@@@@@@@%%@+%@@</tspan>
+<tspan x="15" y="185.2">            @@@:+.:+%%%%++::::+++%%%%%+.::%@@</tspan>
+<tspan x="15" y="197.8">           %%@@:.:%:+@@:::::::%::.%@@.++:.@@@%%</tspan>
+<tspan x="15" y="210.4">          @+++@::::..::..::::.@:...:...::.@%+++@</tspan>
+<tspan x="15" y="223.0">          @.+%%::::::::::::::.+:.::::::::.%@%.+@</tspan>
+<tspan x="15" y="235.6">          @+++%+.:::::::::.:::..:::::::::.%+%:@</tspan>
+<tspan x="15" y="248.2">           @+:+%.::::::.%%+::::+%+.:::::::@:+%@</tspan>
+<tspan x="15" y="260.8">            @:+@.::::::::+++%+%++:::::::.+@.+@</tspan>
+<tspan x="15" y="273.4">             %%@::::::::....::....::::::.%@%</tspan>
+<tspan x="15" y="286.0">               @%.:::::+++++++++++++:::::@</tspan>
+<tspan x="15" y="298.6">                @+.:::::++++++++++::::::@@</tspan>
+<tspan x="15" y="311.2">                @@%:.:::..:+++++.::::.:%@</tspan>
+<tspan x="15" y="323.8">                @++@+..::::::::::::.:%@:%</tspan>
+<tspan x="15" y="336.4">                @+.:%%+:..::::::..:+@%:.@</tspan>
+<tspan x="15" y="349.0">               @@%.:.:%%++::::::++%%:.:.@@@</tspan>
+<tspan x="15" y="361.6">              @%@+.:::.:+++%%%++++:.:::.%@%@</tspan>
+<tspan x="15" y="374.2">            %@++@:.:::::.....::...:::::::@%%@</tspan>
+<tspan x="15" y="386.8">           @@+%+%@::::::::+%:::::::::::.+@++%@</tspan>
+<tspan x="15" y="399.4">       %@@@@+%%%+%@::::::::+%+::::::::::@%+%+@@%@%%</tspan>
+<tspan x="15" y="412.0">   %@@%%%+@@+%%%%+%@.::::::.::::::::::.@%+%%%+@%+%%%@@@</tspan>
+<tspan x="15" y="424.6">@@%%%+++++@%+%+++%%@@:..:::::::::::::.@@+%++++%@%++++%%%@@</tspan>
+<tspan x="15" y="437.2">%+++%%%++%@%++%%@@%%@@%+:.:::::::::.:%@%@%@@%%+@@+%%%+++++</tspan>
+<tspan x="15" y="449.8">+%%%%++++%@+%@@%%+++%%@%%%:.:::::.+@@@@@%+%%@@%%@%+%%++%%+</tspan>
+<tspan x="15" y="462.4">%++++++%+%@@@%+++%+%%@%++@@+.:::.+@%%%%++%+++%%@@@+%%++++%</tspan>
+<tspan x="15" y="475.0">%%%++++++%%%++%%%++++%%@%+%@%:.:%@%++++%%%%%%+++%%%%%+++%%</tspan>
+<tspan x="15" y="487.6">++++++%%%+++%%+++++%%++%@%++%@+@@%+%%%++%%%%%%%%++%+++++%+</tspan>
+<tspan x="15" y="500.2">%%%%%%++++++++++++++%+%++%%++@@%%+%+++++%%++++++%%+++++++%</tspan>
+<tspan x="15" y="512.8">%%%%%%%%%%%%%++++%+++++++++%@@%%@+%++++++++++++++%%%%+++++</tspan>
+<tspan x="15" y="525.4">++++++%%%%%+++++%%%%+++++++@%%%%@+%%%%%+++++++++++%%%%++++</tspan>
+<tspan x="15" y="538.0">%%%%++++++++++++%%%++%%+%+%@+++%%+%%%%%++++%%%+++%%%%%%+++</tspan>
+</text>
+<text x="197" y="576" fill="#24292f" text-anchor="middle">
+<tspan x="197" y="576" class="key">IBAI GARRIDO</tspan>
+<tspan x="197" y="596" class="muted">Full Stack Developer</tspan>
+</text>
+<text x="405" y="30" fill="#24292f">
+<tspan x="405" y="30">ibai@garrido</tspan> -——————————————————————————————————————————————-—-
+<tspan x="405" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">Windows 11, Android</tspan>
+<tspan x="405" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ........................ </tspan><tspan class="value" id="age_data" data-width="54">20 years, 11 months, 11 days</tspan>
+<tspan x="405" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Prague, Czech Republic</tspan>
+<tspan x="405" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Full Stack Developer</tspan>
+<tspan x="405" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">VS Code, Claude Code, Visual Studio</tspan>
+<tspan x="405" y="150" class="cc">. </tspan>
+<tspan x="405" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Programming</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">TypeScript, JavaScript, C#, Python</tspan>
+<tspan x="405" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">React, Next.js, Tailwind CSS, Sass</tspan>
+<tspan x="405" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Mobile</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Kotlin (Android Jetpack)</tspan>
+<tspan x="405" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Real</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Spanish, English, Basque</tspan>
+<tspan x="405" y="250" class="cc">. </tspan>
+<tspan x="405" y="270">- Experience</tspan> -——————————————————————————————————————————————-—-
+<tspan x="405" y="290" class="cc">. </tspan><tspan class="key">Irisbond</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">C# / .NET eye-tracking desktop apps</tspan>
+<tspan x="405" y="310" class="cc">. </tspan><tspan class="key">Smartends</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Python IoT and real-time dashboards</tspan>
+<tspan x="405" y="330" class="cc">. </tspan>
+<tspan x="405" y="350">- Featured Project</tspan> -————————————————————————————————————————-—-
+<tspan x="405" y="370" class="cc">. </tspan><tspan class="key">Huntr</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Financial Analytics &amp; Valuation Engine</tspan>
+<tspan x="405" y="390" class="cc">. </tspan><tspan class="key">Huntr</tspan><tspan class="cc">.</tspan><tspan class="key">Stack</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">React, TypeScript, Next.js, Python</tspan>
+<tspan x="405" y="410" class="cc">. </tspan><tspan class="key">Huntr</tspan><tspan class="cc">.</tspan><tspan class="key">Live</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">huntrvalue.me</tspan>
+<tspan x="405" y="430" class="cc">. </tspan>
+<tspan x="405" y="450">- Contact</tspan> -—————————————————————————————————————————————————-—-
+<tspan x="405" y="470" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">garridotab4@gmail.com</tspan>
+<tspan x="405" y="490" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">linkedin.com/in/ibai-garrido-699826353/</tspan>
+<tspan x="405" y="510" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">ibaigarrido-portfolio.netlify.app</tspan>
+<tspan x="405" y="530" class="cc">. </tspan>
+<tspan x="405" y="550">- Currently</tspan> -———————————————————————————————————————————————-—-
+<tspan x="405" y="570" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Real-time UI performance in data-heavy apps</tspan>
+<tspan x="405" y="590" class="cc">. </tspan><tspan class="key">Open to</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Full Stack roles, remote or Prague based</tspan>
+</text>
+</svg>
